@@ -1,0 +1,6 @@
+{
+  "name": "Rossopistacchio Az. Agrituristica",
+  "description": "Autentico agriturismo e cucina di campagna a Nettuno (Roma). Prodotti freschi della tenuta, pasta fatta a mano, giardino ed eventi privati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
